@@ -1,5 +1,5 @@
 _repo: The-Life-of-King-Henry-V_1521
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Henry V, King of England, 1387-1422 -- Drama'
 - !lcsh 'Great Britain -- History -- Henry V, 1413-1422 -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: The Life of King Henry V
 url: http://www.gutenberg.org/ebooks/1521
